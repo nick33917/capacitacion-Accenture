@@ -1,0 +1,10 @@
+FORMULA
+
+	<etiqueta atributo="valor">  
+			objeto  
+	</etiqueta>
+
+
+	selector{
+		atributo: valor; 
+	}
